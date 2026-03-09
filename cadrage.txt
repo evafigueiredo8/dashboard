@@ -1,0 +1,27 @@
+## Problème
+
+Les entreprises reçoivent beaucoup de feedback clients mais il est difficile d’identifier rapidement les thèmes principaux et le sentiment général.
+
+## Choix techniques
+
+- Python
+
+- analyse via API LLM
+
+- stockage JSON
+
+- interface simple avec Streamlit
+
+## Scope négatif
+
+- pas d’analyse temps réel
+
+- pas d’apprentissage automatique
+
+- pas de traitement audio
+
+## Difficultés
+
+- extraction de thèmes cohérents
+
+- éviter trop de thèmes différents
